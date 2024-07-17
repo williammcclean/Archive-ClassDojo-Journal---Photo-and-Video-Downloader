@@ -2,6 +2,8 @@
 
 Download all ClassDojo photos and videos in your timeline by kecebongsoft.
 
+"Tested on a Mac with Safari! It should be similar for other devices and browsers"
+
 What it does:
 
 	1.	Fetches a list of items from your ClassDojo timeline.
@@ -12,7 +14,7 @@ How to Use:
 
 	1.	Modify Session Cookies:
 	•	Open ClassDojo in your browser and login.
-	•	Enable Dev Tools and on the web page right click, Inpeect the Elements, then go to Storage then Cookies.
+	•	Enable Dev Tools and on the web page right click, Inspect Element, then go to Storage then Cookies.
 	•	Copy the following vaules from the cookies: dojo_log_session_id, dojo_login.sid, and dojo_home_login.sid.
 	•	Paste them into the SESSION_COOKIES section of the script.
 
