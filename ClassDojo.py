@@ -2,7 +2,7 @@
 
 """
 Download all ClassDojo photos and videos in your timeline.
-by kecebongsoft
+by kecebongsoft <--Thank you!
 How it works:
 1. Fetch list of items in the timeline, if there are multiple pages,
    it will fetch for all pages.
@@ -27,7 +27,7 @@ import os
 import tempfile
 
 FEED_URL = 'https://home.classdojo.com/api/storyFeed?includePrivate=true'
-DESTINATION = tempfile.mkdtemp(dir='classdojo_output')  # Ensure this directory exists in the same place as this script.
+DESTINATION = tempfile.mkdtemp(dir='classdojo_output')  # Ensure this directory exists in the same place as this script - not needed as it auto created the folder on the root of my user account
 
 SESSION_COOKIES = {
     'dojo_log_session_id': 'copy here',
