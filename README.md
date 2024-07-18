@@ -34,8 +34,3 @@ How to Use:
  <br />
  
  <img width="398" alt="Screenshot 2024-07-17 at 10 48 57" src="https://github.com/user-attachments/assets/c12ef08d-aa44-4638-b490-fc868af4a326">
-
-
-	•	If you get an error about classdojo_output you might need to create this folder in the User directory 
- <br /> <br />
-<img width="398" alt="Screenshot 2024-07-18 at 13 25 56" src="https://github.com/user-attachments/assets/ad5af7e9-053f-4db9-81b0-38e46859a72d">
