@@ -37,4 +37,5 @@ How to Use:
 
 
 	•	If you get an error about classdojo_output you might need to create this folder in the User directory 
-		<img width="398" alt="Screenshot 2024-07-18 at 13 25 56" src="https://github.com/user-attachments/assets/523aff71-32fd-49df-b955-207a9a03b963">
+ <br /> <br />
+<img width="398" alt="Screenshot 2024-07-18 at 13 25 56" src="https://github.com/user-attachments/assets/ad5af7e9-053f-4db9-81b0-38e46859a72d">
