@@ -1,4 +1,4 @@
-# Archive ClassDojo Journal - Photo and Video Downloader
+# Archive ClassDojo Journal - Photo and Video Downloader by kecebongsoft
 
 Download all ClassDojo photos and videos in your timeline by kecebongsoft.
 
@@ -34,3 +34,7 @@ How to Use:
  <br />
  
  <img width="398" alt="Screenshot 2024-07-17 at 10 48 57" src="https://github.com/user-attachments/assets/c12ef08d-aa44-4638-b490-fc868af4a326">
+
+
+	•	If you get an error about classdojo_output you might need to create this folder in the User directory 
+		<img width="398" alt="Screenshot 2024-07-18 at 13 25 56" src="https://github.com/user-attachments/assets/523aff71-32fd-49df-b955-207a9a03b963">
